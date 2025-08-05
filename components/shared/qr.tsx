@@ -52,8 +52,8 @@ export default function QRCodeEditor({
     logo: "",
     size: 600,
     level: "Q",
-    fgColor: "#d1ffb5",
-    bgColor: "#000000",
+    fgColor: "#000000",
+    bgColor: "#FFFFFF",
     margin: 2,
     hideLogo: false,
   });
